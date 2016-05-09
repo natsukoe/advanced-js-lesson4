@@ -17,7 +17,8 @@ switch (selectedDay) {
 		console.log(selectedDay + '! You might be so exhausting by today.');
 		break;
 	case 'Saturday':
-		console.log(selectedDay + '! You deserve to rest but better start working on homework soon.');
+		//console.log(selectedDay + '! You deserve to rest but better start working on homework soon.');
+		console.log(selectedDay + "! This needs to be Natsuko's dedicated rest day. She never gets enough sleep!");
 		break;
 	case 'Sunday':
 		console.log(selectedDay + '! Hopefully, homework is done by the end of today to get ready for the coming week!');

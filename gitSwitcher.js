@@ -2,7 +2,7 @@ var selectedDay = 'Tuesday';
 
 switch (selectedDay) {
 	case 'Monday':
-		console.log(selectedDay + '! Waking up at 4:30 again is always challenging.');
+		console.log(selectedDay + '! Waking up at 4:30 again is always challenging.  Perhaps I should quit my job ;)');
 		break;
 	case 'Tuesday':
 		console.log(selectedDay + '! Get ready for the JS class!');
